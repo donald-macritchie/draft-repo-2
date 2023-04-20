@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
+
+header {
+    font-family: Kavoon, sans-serif;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding: 30px 0 ;
+    text-align: center;
+    width: 80%;
+    background-color: #fffc4d;
+    border: black solid 2px;
+    border-radius: 30%;
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+#start, #reset {
+    text-align: center;
+}
+
+#start {
+    margin: 50px;
+}
+
